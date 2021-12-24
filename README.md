@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI/UX Design, art, and learning new languages.
 - 🌱 I’m currently learning Frontend Development (HTML, CSS, JavaScript).
 - 💞️ I’m looking to collaborate on web design projects.
-- 📫 How to reach me ...
+- 📫 How to reach me ... <a href="mailto:myrickmichelle314@gmail.com">Email me here</a>
 
 <!---
 pretala8/pretala8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
